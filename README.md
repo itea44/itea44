@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am Aytekin, a 34-year-old IT enthusiast with solid knowledge in Python and databases. As a co-founder of an IT company in Germany, I have played a crucial role in the development and growth of the company. I bring a combination of technical skills and entrepreneurial thinking. My passion for technology and my willingness to tackle complex problems drive my contributions in the IT field.
-
+My name is Aytekin, a 34-year-old IT enthusiast with a strong background in Python and databases. As a co-founder of an IT company in Germany, I have played a significant role in the development and growth of the business. I combine technical expertise with innovative thinking. My passion for technology and my eagerness to tackle complex problems drive my contributions to the IT field.
 
 🔭 I am working on a crowdfunding app for use in Anatolian countries.
 🌱 I'm currently learning Java, HTML, CSS, and Vue.js
